@@ -3,8 +3,8 @@ import type { Site, SocialObjects } from "./types";
 export const SITE: Site = {
   website: "https://amstelden.com/",
   author: "Evil",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
+  desc: "Tech and such",
+  title: "AmstelDen",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 25,
