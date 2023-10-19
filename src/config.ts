@@ -4,7 +4,7 @@ export const SITE: Site = {
   website: "https://amstelden.com/",
   author: "Evil",
   desc: "Tech and such",
-  title: "AmstelDen",
+  title: "amstelden",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 25,
