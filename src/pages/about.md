@@ -3,7 +3,7 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-I'm Emil, a software engineer. I'm generally curious about a wide variety of topics, so you'll find me exploring a lot of areas (most of the time related to software engineering, but not always).
+I'm Emil, a software engineer. I'm generally curious about a wide variety of topics, so you'll find me exploring a lot of areas (most of the time related to software engineering, but not only). I've got my Bachelor's in Computer Science back in 2016 and been writing code professionally since 2013. I worked at various companies, from outsourcing to product, from startups of 3 to big tech (@AWS). Right now I'm into web3 (@MatterLabs).
 
 ## Another blog, yes, but why?
 
