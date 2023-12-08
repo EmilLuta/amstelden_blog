@@ -4,7 +4,7 @@ pubDatetime: 2023-12-07T16:00:00Z
 title: Promotion Plan Senior Engineer to Principal Engineer
 postSlug: promotion-plan
 featured: true
-draft: false
+draft: true
 tags:
   - promotion
   - principal
